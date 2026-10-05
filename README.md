@@ -1,5 +1,5 @@
 # SAMP
-
+# Early learning project (Lua scripts for MoonLoader). My current focus is C++ and reverse engineering
 Lua scripts, C++ experiments and fixes for SAMP / MoonLoader.
 
 ## Projects
